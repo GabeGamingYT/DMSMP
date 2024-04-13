@@ -78,3 +78,24 @@
 [19:25:24] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:48212|Furrykiller92] -> UpstreamBridge has disconnected
 [19:25:24] [Netty Worker IO Thread #0/INFO]: [Furrykiller92] disconnected with: Proxy lost connection to server.
 [19:25:24] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:48212|Furrykiller92] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:38:28] [main/ERROR]: Exception in thread "main" java.io.IOError: java.io.IOException: Input/output error
+[19:38:28] [main/ERROR]: 	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:170)
+[19:38:28] [main/ERROR]: 	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:110)
+[19:38:28] [main/ERROR]: 	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:61)
+[19:38:28] [main/ERROR]: 	at org.jline.reader.impl.LineReaderImpl.doReadBinding(LineReaderImpl.java:923)
+[19:38:28] [main/ERROR]: 	at org.jline.reader.impl.LineReaderImpl.readBinding(LineReaderImpl.java:956)
+[19:38:28] [main/ERROR]: 	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:651)
+[19:38:28] [main/ERROR]: 	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:468)
+[19:38:28] [main/ERROR]: 	at net.minecrell.terminalconsole.SimpleTerminalConsole.readCommands(SimpleTerminalConsole.java:158)
+[19:38:28] [main/ERROR]: 	at net.minecrell.terminalconsole.SimpleTerminalConsole.start(SimpleTerminalConsole.java:141)
+[19:38:28] [main/ERROR]: 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:72)
+[19:38:28] [main/ERROR]: 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+[19:38:28] [main/ERROR]: Caused by: java.io.IOException: Input/output error
+[19:38:28] [main/ERROR]: 	at java.base/java.io.FileInputStream.read0(Native Method)
+[19:38:28] [main/ERROR]: 	at java.base/java.io.FileInputStream.read(FileInputStream.java:231)
+[19:38:28] [main/ERROR]: 	at org.jline.terminal.impl.AbstractPty$PtyInputStream.read(AbstractPty.java:73)
+[19:38:28] [main/ERROR]: 	at org.jline.utils.NonBlockingInputStream.read(NonBlockingInputStream.java:62)
+[19:38:28] [main/ERROR]: 	at org.jline.utils.NonBlocking$NonBlockingInputStreamReader.read(NonBlocking.java:168)
+[19:38:28] [main/ERROR]: 	at org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:57)
+[19:38:28] [main/ERROR]: 	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:160)
+[19:38:28] [main/ERROR]: 	... 10 more
