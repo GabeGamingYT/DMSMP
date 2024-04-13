@@ -11,7 +11,12 @@
 # Bug tracker: http://www.spigotmc.org/go/bugs
 command-block-overrides: []
 aliases:
-discord: 
- join this server for the DMSMP! https://discord.gg/Nm87begG
   icanhasbukkit:
   - version $1-
+name: discord
+on:
+  push:
+    branches:
+      - https://discord.gg/Nm87begG'
+  pull_request:
+  workflow_dispatch:
