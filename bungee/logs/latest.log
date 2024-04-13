@@ -69,3 +69,12 @@
 [19:14:23] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.10 by lax1dude
 [19:14:23] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
 [19:14:35] [main/INFO]: Command not found
+[19:15:53] [Netty Worker IO Thread #1/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/DMSMP/bungee/server-icon.png
+[19:16:07] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48212]: Connected via websocket
+[19:16:07] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48212]: Origin header is https://reslauncher4.vercel.app
+[19:16:07] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48212]: Logged in as 'Furrykiller92'
+[19:16:07] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:48212|Furrykiller92] -> UpstreamBridge has connected
+[19:16:07] [Netty Worker IO Thread #0/INFO]: [Furrykiller92|/[0:0:0:0:0:0:0:1%0]:48212] <-> ServerConnector [lobby] has connected
+[19:25:24] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:48212|Furrykiller92] -> UpstreamBridge has disconnected
+[19:25:24] [Netty Worker IO Thread #0/INFO]: [Furrykiller92] disconnected with: Proxy lost connection to server.
+[19:25:24] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:48212|Furrykiller92] <-> DownstreamBridge <-> [lobby] has disconnected

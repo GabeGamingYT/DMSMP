@@ -305,3 +305,25 @@
 
 [19:14:56] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
 
+[19:16:07] [Thread-7/INFO]: UUID of player Furrykiller92 is 4b1a1ffe-fa6f-374d-ac0d-7b20343fd0b7
+[19:16:07] [Server thread/INFO]: Furrykiller92[/[0:0:0:0:0:0:0:1]:38992] logged in with entity id 2002 at ([world]205.5, 68.0, 261.5)
+[19:16:20] [Server thread/INFO]: Furrykiller92 issued server command: /op
+[19:16:21] [Server thread/INFO]: Furrykiller92 has just earned the achievement [Taking Inventory]
+[19:16:34] [Server thread/INFO]: Opped furrykiller92
+[19:16:41] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[19:17:06] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[19:17:11] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[19:17:13] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[19:17:15] [Server thread/INFO]: Usage: /tell <player> <private message ...>
+[19:17:20] [Server thread/INFO]: You whisper to Furrykiller92: xas
+[19:18:14] [Server thread/INFO]: Furrykiller92 issued server command: /team create sigmas
+[19:18:30] [Server thread/INFO]: Furrykiller92 issued server command: /deop furrykiller92
+[19:18:30] [Server thread/INFO]: [Furrykiller92: De-opped furrykiller92]
+[19:18:35] [Server thread/INFO]: Furrykiller92 issued server command: /teeam
+[19:18:39] [Server thread/INFO]: Furrykiller92 issued server command: /team
+[19:25:24] [Server thread/INFO]: Furrykiller92 lost connection: Disconnected
+[19:25:24] [Server thread/INFO]: Furrykiller92 left the game.
