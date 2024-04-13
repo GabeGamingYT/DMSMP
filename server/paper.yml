@@ -71,7 +71,7 @@ world-settings:
       boats-drop-boats: false
       disable-player-crits: false
       disable-chest-cat-detection: false
-      disable-end-credits: false
+      disable-end-credits: true
     fast-drain:
       lava: false
       water: false
