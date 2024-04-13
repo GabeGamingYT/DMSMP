@@ -9,14 +9,8 @@
 #    (If this means nothing to you, just go to http://www.spigotmc.org/pages/irc/ )
 # Forums: http://www.spigotmc.org/
 # Bug tracker: http://www.spigotmc.org/go/bugs
+
 command-block-overrides: []
 aliases:
   icanhasbukkit:
   - version $1-
-name: discord
-on:
-  push:
-    branches:
-      - https://discord.gg/Nm87begG'
-  pull_request:
-  workflow_dispatch:

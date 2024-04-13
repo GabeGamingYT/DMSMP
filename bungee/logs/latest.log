@@ -50,3 +50,8 @@
 [19:44:36] [Netty Boss IO Thread #0/WARN]: Could not bind to host /127.0.0.1:25577
 io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
 [19:44:36] [EaglerXBungee: Network Tick Tasks/INFO] [EaglercraftXBungee]: Loaded certificate: /workspaces/DMSMP/bungee/plugins/EaglercraftXBungee/eagcert/$dl.24a1bafc15c675276968d78cdcb55a04992bddb0.cert
+[20:21:40] [main/INFO]: Command not found
+[20:21:47] [main/INFO]: Command not found
+[20:21:48] [main/INFO]: Command not found
+[20:21:52] [main/INFO]: Command not found
+[20:21:54] [main/INFO]: Command not found
